@@ -72,7 +72,8 @@
 			"roomDeleted": "Your room was deleted!",
 
 			"noRoomAvailable": "You don't have a room. Summon one before trying again.",
-
+			
+			"noChannelsEnabled": "You can't summon a room right now because no channel types are enabled.",
 			"roomSummonErrorExiting": "You cannot create a room at this time, You most likely already have one.",
 			"roomDeleteNoRoom": "Could not find a room to delete. Are you sure there is one for {1}?"
 
