@@ -48,7 +48,8 @@
          "roomDeleted":"Il tuo canale é stato rimosso!",
          "noRoomAvailable":"Non hai un canale. Creane uno prima di riprovare.",
          "roomSummonErrorExiting":"Non puoi creare un canale ora, forse ne hai già una.",
-         "roomDeleteNoRoom":"Non é stato trovato alcun canale da cancellare. Sei sicuro che ce ne sia uno per {1}?"
+         "roomDeleteNoRoom":"Non é stato trovato alcun canale da cancellare. Sei sicuro che ce ne sia uno per {1}?",
+         "roomCreateFailed": "Qualcosa é andato storto durante la creazione del tuo canale."
       },
       "misc":{
          "y":"y",
