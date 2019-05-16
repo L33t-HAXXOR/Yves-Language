@@ -70,9 +70,11 @@
 
 			"roomCreated": "Your room was created!",
 			"roomDeleted": "Your room was deleted!",
+			"roomCreateFailed": "Something went wrong while creating your room.",
 
 			"noRoomAvailable": "You don't have a room. Summon one before trying again.",
 
+			"noChannelsEnabled": "You can't summon a room right now because no channel types are enabled.",
 			"roomSummonErrorExiting": "You cannot create a room at this time, You most likely already have one.",
 			"roomDeleteNoRoom": "Could not find a room to delete. Are you sure there is one for {1}?"
 
@@ -91,7 +93,7 @@
 		"help": {
 
 			"dashboard_url": "https://yvesbot.com/dashboard/{1}",
-			"dashboard_url_message": "You can change bot behavoir via the dashboard at:",
+			"dashboard_url_message": "You can change bot behavior via the dashboard at:",
 			
 			"bug_report_url": "https://forms.gle/sDZVWYef3kfEPYW48",
 			"feedback_url": "https://forms.gle/ssjKRRo395YkZ8Wt9"
