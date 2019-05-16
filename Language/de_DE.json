@@ -1,0 +1,108 @@
+{
+
+	"meta": {
+	
+		"name":				"German",
+		"short":       		"de_DE",
+		"maintainers":		["TheHDCrafter#2790"],
+
+		"versionFormat":	4
+	
+	},
+	
+	"terms": {
+	
+		"Discord": {
+		
+			"Guild":				"Server",
+			
+			"Channel":				"Kanal",
+			"VoiceChannel":			"Sprach Kanal",
+			"TextChannel":			"Text Kanal",
+			"CategoryChannel":		"Kategorie Kanal",
+			
+			"Message":				"Nachricht",
+			"Member":				"Nutzer",
+			"Mention":				"Erwähnung"
+		
+		},
+		
+		"exceptions": {
+
+
+			"titleGeneric":			"Etwas ist schief gelaufen.",
+			"titlePermission":		"Berechtigung verweigert.",
+			"titleNotImplemented":	"Nicht implementiert",
+		
+			"generic": 				"Eine Ausnahme ist aufgetreten.",
+			"genericLogged": 		"Eine Ausnahme ist aufgetreten. Gehe zu {1} für mehr Informationen.",
+			"genericNoPerms": 		"Fehlende Berechtigungen um dies hier zu tun.",
+			"genericNoUserPerms": 	"Du brauchst die Berechtigung `{1}` um dies zu tun.",
+			
+			"genericNoShard": 		"Entschuldige, Yves ist gerade auf deinem Server nicht verfügbar. Versuche es in einer oder zwei Minuten.",
+			"genericOutage": 		"Entschultige, Yves ist ausgefallen, versuche es wieder in ein paar Minuten.",
+			
+			"contactAdmin":			"Wenn sie Denken, dass dies ein Fehler ist, kontaktieren sie bitte den Server Administrator.",
+
+			"roomTooManyMembers":	"Wenn sie diese Nutzer einladen würde dies das Kanallimit überschreiten."
+		
+		},
+		
+		"dialog": {
+		
+			"confirm": 				"Aktion bestätigen.",
+			"choose": 				"Entscheiden sie sich.",
+
+            "expiresIn":			"Läuft ab in {1} Sekunden.",
+			"targetMember":			"Nur {1} kann sich entscheiden.",
+
+			"actionConfirmed":		"Aktion bestätigen",
+			"actionCanceled": 		"Aktion abgebrochen",
+			"actionExpired": 		"Action veraltet",
+			"actionExpiredDesc": 	"Der {1} Sekunden Timer ist abgelaufen.",
+			"actionCanceledDesc": 	"{1} hat auf abbrechen gedrückt.",
+
+			"footerMessage": 		"Läuft in {1} (sekunden) ab, nur {2} kann die Aktion bestätigen."
+		
+		},
+
+		"rooms": {
+
+			"roomCreated": "Dein Kanal wurde erstellt!",
+			"roomDeleted": "Dein Kanal wurde gelöscht!",
+			"roomCreateFailed": "Etwas ist schief gelaufen als Ihr Kanal erstellt wurde.",
+
+			"noRoomAvailable": "Sie haben keinen Kanal. Erstellen sie einen und versuchen Sie es nochmal.",
+
+			"noChannelsEnabled": "Sie können jetzt keine Kanäle erstellen, da dieses Feature nicht Eingeschaltet ist.",
+			"roomSummonErrorExiting": "Sie können jetzt keine weiteren Kanäle erstellen da Sie höchstwahrscheinlich schon einen haben.",
+			"roomDeleteNoRoom": "Konnte den Kanal nicht löschen. Sind Sie sicher das der Kanal von {1} ist?"
+
+		},
+		
+		"misc": {
+		
+			"y":	"y",
+			"working": "Arbeite daran...",
+			"checking": "Bitte warten...",
+
+			"noMember": "Keine Nutzer wurden gefunden."
+		
+		},
+
+		"help": {
+
+			"dashboard_url": "https://yvesbot.com/dashboard/{1}",
+			"dashboard_url_message": "Sie können die Bot Einstellungen auf der Webseite bearbeiten unter:",
+			
+			"bug_report_url": "https://forms.gle/sDZVWYef3kfEPYW48",
+			"feedback_url": "https://forms.gle/ssjKRRo395YkZ8Wt9"
+
+		}
+	
+	
+	
+	}
+
+
+}
