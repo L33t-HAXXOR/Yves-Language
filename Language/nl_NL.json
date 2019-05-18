@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "name": "Dutch (Netherlands)",
+    "short": "nl_NL",
+    "maintainers": [
+      "KolkiesDev#0001"
+    ],
+    "versionFormat": 4
+  },
+  "terms": {
+    "Discord": {
+      "Guild": "Server",
+      "Channel": "Kanaal",
+      "VoiceChannel": "Voicekanaal",
+      "TextChannel": "Tekstkanaal",
+      "CategoryChannel": "Categoriekanaal",
+      "Message": "Bericht",
+      "Member": "Lid",
+      "Mention": "Mention"
+    },
+    "exceptions": {
+      "titleGeneric": "Er ging iets fout.",
+      "titlePermission": "Geen toestemming.",
+      "titleNotImplemented": "Niet toegevoegd",
+      "generic": "Een bezwaar is opgetreden.",
+      "genericLogged": "Een bezwaar is opgetreden. Ga naar {1} voor meer informatie.",
+      "genericNoPerms": "Ontbrekende permissies om dat hier te doen",
+      "genericNoUserPerms": "Je hebt de `{1}` permissie nodig om dat te doen.",
+      "genericNoShard": "Sorry, Yves is momenteel niet toegankelijk op jouw server. Probeer opnieuw in een of twee minuten.",
+      "genericOutage": "Sorry, Yves ondervindt momenteel een storing. Probeer het over een paar minuten opnieuw.",
+      "contactAdmin": "Als u denkt dat dit een fout is, neem dan contact op met de serverbeheerder",
+      "roomTooManyMembers": "Het uitnodigen van deze mensen zou de limiet voor het aantal maximale kanaalleden overschrijden."
+    },
+    "dialog": {
+      "confirm": "Confirm actie.",
+      "choose": "Maak een keuze.",
+      "expiresIn": "Verloops in {1} seconde(n).",
+      "targetMember": "Alleen {1} kan het beslissen.",
+      "actionConfirmed": "Actie Confirmed",
+      "actionCanceled": "Actie Canceled",
+      "actionExpired": "Actie Verlopen",
+      "actionExpiredDesc": "De {1} seconde(n) timer is verlopen.",
+      "actionCanceledDesc": "{1} heeft op cancel gedrukt.",
+      "footerMessage": "Verloopt in {1} alleen {2} kan het beslissen."
+    },
+    "rooms": {
+      "roomCreated": "Je room is aangemaakt!",
+      "roomDeleted": "Je room is verwijderd!",
+      "roomCreateFailed": "Er ging iets fout terwijl ik je room aan probeerde te maken.",
+      "noRoomAvailable": "Je hebt geen room. Maak er een voordat je het nog een keer probeert.",
+      "noChannelsEnabled": "Je kunt nu geen kamer aanmaken, omdat er geen kanaaltypen zijn ingeschakeld.",
+      "roomSummonErrorExiting": "Je kan op dit moment geen room aanmaken, waarschijnlijk heb je er al een.",
+      "roomDeleteNoRoom": "Ik kon geen room vinden om te verwijderen. Weet je zeker dat er een is voor {1}?"
+    },
+    "misc": {
+      "y": "j",
+      "working": "Ik ben ermee bezig...",
+      "checking": "Even geduld...",
+      "noMember": "Er zijn geen leden gevonden."
+    },
+    "help": {
+      "dashboard_url": "https://yvesbot.com/dashboard/{1}",
+      "dashboard_url_message": "Je kan de behoeftes van de bot aanpassen via het dashboard op:",
+      "bug_report_url": "https://forms.gle/sDZVWYef3kfEPYW48",
+      "feedback_url": "https://forms.gle/ssjKRRo395YkZ8Wt9"
+    }
+  }
+}
