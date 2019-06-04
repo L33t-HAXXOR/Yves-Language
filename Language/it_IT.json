@@ -51,7 +51,7 @@
          "roomDeleteNoRoom":"Non é stato trovato alcun canale da cancellare. Sei sicuro che ce ne sia uno per {1}?",
          "roomCreateFailed": "Qualcosa é andato storto durante la creazione del tuo canale.",
          "roomLocked": "Canale é stato bloccato.",
-			"roomUnlocked": "Canale é stato sbloccato.",
+	 "roomUnlocked": "Canale é stato sbloccato."
       },
       "misc":{
          "y":"y",
