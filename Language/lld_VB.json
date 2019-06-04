@@ -61,7 +61,9 @@
       "roomDeleted": "Le tü canal é sté tut demez!",
       "roomDeleteNoRoom": "Al n'é sté ciafé degun canal da tó demez. Es zigü ch' al ne sides un pur {1}?",
       "roomSummonErrorExiting": "Te ne pos nia cherié n canal sëgn, al pó ester ch' nen as bele un.",
-      "roomCreateFailed": "Valch é jü stort intratan la creaziun dl canal."
+      "roomCreateFailed": "Valch é jü stort intratan la creaziun dl canal.",
+      "roomLocked": "Canal é sté bloché.",
+      "roomUnlocked": "Canal é sté desbloché."
     }
   }
 }
