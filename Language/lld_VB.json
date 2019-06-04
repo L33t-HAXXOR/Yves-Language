@@ -3,7 +3,7 @@
     "maintainers": [
       "SpeckyYT#6289"
     ],
-    "name": "Ladin (VB) AYAYA",
+    "name": "Ladin (VB)",
     "short": "lld_VB",
     "versionFormat": 4
   },
@@ -64,6 +64,20 @@
       "roomCreateFailed": "Valch é jü stort intratan la creaziun dl canal.",
       "roomLocked": "Canal é sté bloché.",
       "roomUnlocked": "Canal é sté desbloché."
+    },
+    "discordMessageTypes":{  
+       "DEFAULT":"Messaje",
+         "RECIPIENT_ADD":"Mëmber é sté metü lapró al GroupDM",
+         "RECIPIENT_REMOVE":"Mëmber é sté tut demez dal GroupDM",
+         "CALL":"Cherdada",
+         "CHANNEL_NAME_CHANGE":"L'inom dl canal dl GroupDM é sté cambié",
+         "CHANNEL_ICON_CHANGE":"L'icona dl canal dl GroupDM é sté cambié",
+         "CHANNEL_PINNED_MESSAGE":"En messaje é sté fissé",
+         "GUILD_MEMBER_JOIN":"Mëmber é gnü ite tl server",
+         "USER_PREMIUM_GUILD_SUBSCRIPTION":"Mëmber ha boosté le server",
+         "USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_1":"Mëmber ha boosté le server a livel 1",
+         "USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_2":"Mëmber ha boosté le server a livel 2",
+         "USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_3":"Mëmber ha boosté le server a livel 3"
     }
   }
 }
