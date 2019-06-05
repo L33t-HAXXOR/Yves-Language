@@ -1,14 +1,14 @@
-{
-   "meta":{
+{  
+   "meta":{  
       "name":"Italian (IT)",
       "short":"it_IT",
-      "maintainers":[
+      "maintainers":[  
          "SpeckyYT#6289"
       ],
       "versionFormat":4
    },
-   "terms":{
-      "Discord":{
+   "terms":{  
+      "Discord":{  
          "Guild":"Server",
          "Channel":"Canale",
          "VoiceChannel":"Canale vocale",
@@ -18,7 +18,7 @@
          "Member":"Membro",
          "Mention":"Menzione"
       },
-      "exceptions":{
+      "exceptions":{  
          "titleGeneric":"Qualcosa é andato storto.",
          "titlePermission":"Permesso negato.",
          "titleNotImplemented":"Non implementato.",
@@ -31,7 +31,7 @@
          "contactAdmin":"Se credi che questo sia un errore, contatta l'amministratore del server",
          "roomTooManyMembers":"Invitando queste persone, eccederebbe il limite dei membri del canale."
       },
-      "dialog":{
+      "dialog":{  
          "confirm":"Conferma azione.",
          "choose":"Fai una scelta.",
          "expiresIn":"Scade in {1} secondi.",
@@ -43,27 +43,41 @@
          "actionCanceledDesc":"{1} ha cliccato cancel.",
          "footerMessage":"Scade in {1} solo {2} può confermare."
       },
-      "rooms":{
+      "rooms":{  
          "roomCreated":"Il tuo canale é stato creato!",
          "roomDeleted":"Il tuo canale é stato rimosso!",
          "noRoomAvailable":"Non hai un canale. Creane uno prima di riprovare.",
          "roomSummonErrorExiting":"Non puoi creare un canale ora, forse ne hai già una.",
          "roomDeleteNoRoom":"Non é stato trovato alcun canale da cancellare. Sei sicuro che ce ne sia uno per {1}?",
-         "roomCreateFailed": "Qualcosa é andato storto durante la creazione del tuo canale.",
-         "roomLocked": "Canale é stato bloccato.",
-	 "roomUnlocked": "Canale é stato sbloccato."
+         "roomCreateFailed":"Qualcosa é andato storto durante la creazione del tuo canale.",
+         "roomLocked":"Canale é stato bloccato.",
+         "roomUnlocked":"Canale é stato sbloccato."
       },
-      "misc":{
+      "misc":{  
          "y":"y",
          "working":"Sto lavorando...",
          "checking":"Perfavore aspetta...",
          "noMember":"Nessun membro é stato trovato."
       },
-      "help":{
+      "help":{  
          "dashboard_url":"https://yvesbot.com/dashboard/{1}",
          "dashboard_url_message":"Puoi cambiare il comportamento del bot via la dashboard su:",
          "bug_report_url":"https://forms.gle/sDZVWYef3kfEPYW48",
          "feedback_url":"https://forms.gle/ssjKRRo395YkZ8Wt9"
+      },
+      "discordMessageTypes":{  
+         "DEFAULT":"Messaggio",
+         "RECIPIENT_ADD":"Membro é stato aggiunto al GroupDM",
+         "RECIPIENT_REMOVE":"Membro é stato rimosso dal GroupDM",
+         "CALL":"Call",
+         "CHANNEL_NAME_CHANGE":"Il nome del canale del GroupDM é stato cambiato",
+         "CHANNEL_ICON_CHANGE":"L'icona del canale del GroupDM é stato cambiato",
+         "CHANNEL_PINNED_MESSAGE":"Un messaggio é stato fissato",
+         "GUILD_MEMBER_JOIN":"Membro é entrato nel server",
+         "USER_PREMIUM_GUILD_SUBSCRIPTION":"Membro ha boostato il server",
+         "USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_1":"Membro ha boostato il server a livello 1",
+         "USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_2":"Membro ha boostato il server a livello 2",
+         "USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_3":"Membro ha boostato il server a livello 3"
       }
    }
 }

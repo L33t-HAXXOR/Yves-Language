@@ -1,69 +1,83 @@
-{
-  "meta": {
-    "maintainers": [
-      "SpeckyYT#6289"
-    ],
-    "name": "Ladin (VB)",
-    "short": "lld_VB",
-    "versionFormat": 4
-  },
-  "terms": {
-    "dialog": {
-      "actionCanceled": "Aziun anulada",
-      "actionCanceledDesc": "{1} á drucké cancel.",
-      "actionConfirmed": "Aziun confermada",
-      "actionExpired": "Aziun tomada",
-      "actionExpiredDesc": "Le timer de {1} secunc é tomé.",
-      "choose": "Fá ma na dezijiun.",
-      "confirm": "Confermëia l'aziun.",
-      "expiresIn": "Toma te {1} secunc.",
-      "footerMessage": "Al toma te {1} madër {2} pó tó la dezijun.",
-      "targetMember": "Madër {1} pó tó la dezijiun."
-    },
-    "Discord": {
-      "CategoryChannel": "Categoria",
-      "Channel": "Canal",
-      "Guild": "Server",
-      "Member": "Mëmber",
-      "Mention": "Menziun",
-      "Message": "Messaje",
-      "TextChannel": "Canal testual",
-      "VoiceChannel": "Canal vocal"
-    },
-    "exceptions": {
-      "contactAdmin": "Sce te panses che chësch sides n fal, contatëia l'aministradú dl server",
-      "generic": "Al é suzedü n'ezeziun.",
-      "genericLogged": "Al é suzedü n'ezeziun. Va söl {1} pur plö informaziuns.",
-      "genericNoPerms": "Al mancia les conzesciuns pul le fá chiló.",
-      "genericNoShard": "Scusa, Yves ne é nia a disposiziun al mumënt söl tü server. Pro ciamó n'iade te n'menüt o dui.",
-      "genericNoUserPerms": "Te adores la conzesciun `{1}` pur le fá.",
-      "genericOutage": "Scusa, Yves á na interuziun temporan. Pro ciamó n'iade te n'per de menüc.",
-      "roomTooManyMembers": "Sce te invites chëstes porsones, superessl le limit di mëmbri dl canal.",
-      "titleGeneric": "Valch é jü stort.",
-      "titleNotImplemented": "Nia ciamó implementé.",
-      "titlePermission": "Conzesciun negada."
-    },
-    "help": {
-      "bug_report_url": "https://forms.gle/sDZVWYef3kfEPYW48",
-      "dashboard_url": "https://yvesbot.com/dashboard/{1}",
-      "dashboard_url_message": "Te pos cambié le cumpurtamënt dl bot söla dashboard sön:",
-      "feedback_url": "https://forms.gle/ssjKRRo395YkZ8Wt9"
-    },
-    "misc": {
-      "checking": "Prëibel, aspeta...",
-      "noMember": "Degun mëmber é sté ciafé.",
-      "working": "Sun drio a lauré...",
-      "y": "y"
-    },
-    "rooms": {
-      "noRoomAvailable": "Te ne as nia n canal. Cherëien un, y spo pro indo n'iade.",
-      "roomCreated": "Le tü canal é sté cherié!",
-      "roomDeleted": "Le tü canal é sté tut demez!",
-      "roomDeleteNoRoom": "Al n'é sté ciafé degun canal da tó demez. Es zigü ch' al ne sides un pur {1}?",
-      "roomSummonErrorExiting": "Te ne pos nia cherié n canal sëgn, al pó ester ch' nen as bele un.",
-      "roomCreateFailed": "Valch é jü stort intratan la creaziun dl canal.",
-      "roomLocked": "Canal é sté bloché.",
-      "roomUnlocked": "Canal é sté desbloché."
-    }
-  }
+{  
+   "meta":{  
+      "maintainers":[  
+         "SpeckyYT#6289"
+      ],
+      "name":"Ladin (VB)",
+      "short":"lld_VB",
+      "versionFormat":4
+   },
+   "terms":{  
+      "dialog":{  
+         "actionCanceled":"Aziun anulada",
+         "actionCanceledDesc":"{1} á drucké cancel.",
+         "actionConfirmed":"Aziun confermada",
+         "actionExpired":"Aziun tomada",
+         "actionExpiredDesc":"Le timer de {1} secunc é tomé.",
+         "choose":"Fá ma na dezijiun.",
+         "confirm":"Confermëia l'aziun.",
+         "expiresIn":"Toma te {1} secunc.",
+         "footerMessage":"Al toma te {1} madër {2} pó tó la dezijun.",
+         "targetMember":"Madër {1} pó tó la dezijiun."
+      },
+      "Discord":{  
+         "CategoryChannel":"Categoria",
+         "Channel":"Canal",
+         "Guild":"Server",
+         "Member":"Mëmber",
+         "Mention":"Menziun",
+         "Message":"Messaje",
+         "TextChannel":"Canal testual",
+         "VoiceChannel":"Canal vocal"
+      },
+      "exceptions":{  
+         "contactAdmin":"Sce te panses che chësch sides n fal, contatëia l'aministradú dl server",
+         "generic":"Al é suzedü n'ezeziun.",
+         "genericLogged":"Al é suzedü n'ezeziun. Va söl {1} pur plö informaziuns.",
+         "genericNoPerms":"Al mancia les conzesciuns pul le fá chiló.",
+         "genericNoShard":"Scusa, Yves ne é nia a disposiziun al mumënt söl tü server. Pro ciamó n'iade te n'menüt o dui.",
+         "genericNoUserPerms":"Te adores la conzesciun `{1}` pur le fá.",
+         "genericOutage":"Scusa, Yves á na interuziun temporan. Pro ciamó n'iade te n'per de menüc.",
+         "roomTooManyMembers":"Sce te invites chëstes porsones, superessl le limit di mëmbri dl canal.",
+         "titleGeneric":"Valch é jü stort.",
+         "titleNotImplemented":"Nia ciamó implementé.",
+         "titlePermission":"Conzesciun negada."
+      },
+      "help":{  
+         "bug_report_url":"https://forms.gle/sDZVWYef3kfEPYW48",
+         "dashboard_url":"https://yvesbot.com/dashboard/{1}",
+         "dashboard_url_message":"Te pos cambié le cumpurtamënt dl bot söla dashboard sön:",
+         "feedback_url":"https://forms.gle/ssjKRRo395YkZ8Wt9"
+      },
+      "misc":{  
+         "checking":"Prëibel, aspeta...",
+         "noMember":"Degun mëmber é sté ciafé.",
+         "working":"Sun drio a lauré...",
+         "y":"y"
+      },
+      "rooms":{  
+         "noRoomAvailable":"Te ne as nia n canal. Cherëien un, y spo pro indo n'iade.",
+         "roomCreated":"Le tü canal é sté cherié!",
+         "roomDeleted":"Le tü canal é sté tut demez!",
+         "roomDeleteNoRoom":"Al n'é sté ciafé degun canal da tó demez. Es zigü ch' al ne sides un pur {1}?",
+         "roomSummonErrorExiting":"Te ne pos nia cherié n canal sëgn, al pó ester ch' nen as bele un.",
+         "roomCreateFailed":"Valch é jü stort intratan la creaziun dl canal.",
+         "roomLocked":"Canal é sté bloché.",
+         "roomUnlocked":"Canal é sté desbloché."
+      },
+      "discordMessageTypes":{  
+         "DEFAULT":"Messaje",
+         "RECIPIENT_ADD":"Mëmber é sté metü lapró al GroupDM",
+         "RECIPIENT_REMOVE":"Mëmber é sté tut demez dal GroupDM",
+         "CALL":"Cherdada",
+         "CHANNEL_NAME_CHANGE":"L'inom dl canal dl GroupDM é sté cambié",
+         "CHANNEL_ICON_CHANGE":"L'icona dl canal dl GroupDM é sté cambié",
+         "CHANNEL_PINNED_MESSAGE":"En messaje é sté fissé",
+         "GUILD_MEMBER_JOIN":"Mëmber é gnü ite tl server",
+         "USER_PREMIUM_GUILD_SUBSCRIPTION":"Mëmber ha boosté le server",
+         "USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_1":"Mëmber ha boosté le server a livel 1",
+         "USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_2":"Mëmber ha boosté le server a livel 2",
+         "USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_3":"Mëmber ha boosté le server a livel 3"
+      }
+   }
 }
