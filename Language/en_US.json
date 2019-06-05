@@ -102,6 +102,23 @@
 			"bug_report_url": "https://forms.gle/sDZVWYef3kfEPYW48",
 			"feedback_url": "https://forms.gle/ssjKRRo395YkZ8Wt9"
 
+		},
+
+		"discordMessageTypes": {
+
+			"DEFAULT": "Message",
+			"RECIPIENT_ADD": "GroupDM Member Added",
+			"RECIPIENT_REMOVE": "GroupDM Member Removed",
+			"CALL": "Call",
+			"CHANNEL_NAME_CHANGE": "GroupDM Channel Name Changed",
+			"CHANNEL_ICON_CHANGE": "GroupDM Channel Icon Changed",
+			"CHANNEL_PINNED_MESSAGE": "Message was pinned",
+			"GUILD_MEMBER_JOIN": "Member joined server",
+			"USER_PREMIUM_GUILD_SUBSCRIPTION": "Member boosted server",
+			"USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_1": "Member boosted server to tier 1",
+			"USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_2": "Member boosted server to tier 2",
+			"USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_3": "Member boosted server to tier 3"
+
 		}
 	
 	
