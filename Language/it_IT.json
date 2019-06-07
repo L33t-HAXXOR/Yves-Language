@@ -79,5 +79,58 @@
          "USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_2":"Membro ha boostato il server a livello 2",
          "USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_3":"Membro ha boostato il server a livello 3"
       }
+      		},
+
+		"ExplicitContentFilter": {
+
+			"DISABLED": "Disabilitato",
+			"MEMBERS_WITHOUT_ROLES": "Membri senza ruoli",
+			"ALL_MEMBERS": "Tutti i membri"
+
+		},
+
+		"2FARequirement": {
+
+			"NONE": "2FA non é richiesto",
+			"ELEVATED": "2FA richiesto"
+
+		},
+
+		"VerificationLevel": {
+
+			"NONE": "Nessuno",
+			"MEMBERS_WITHOUT_ROLES": "Membri senza ruoli",
+			"ALL_MEMBERS": "Tutti i membri"
+
+		},
+
+		"loggingMessages": {
+
+			"viewInAuditBrowser": "Guarda nel Audit Log sul browser",
+
+			"messageDelete": "{1} ha cancellato il messaggio di {2} in {3}",
+			"messageDelete|self": "{1} ha cancellato il proprio messaggio [message]({3}) in {2}.",
+			"messageEdit": "{1} ha cambiato il messaggio [message]({3}) in {2}",
+
+			"emojiCreate": "{1} ha creato l'emoji: {2}",
+			"emojiUpdate": "{1} ha aggiornato l'emoji: {2}",
+			"emojiDelete": "{1} ha rimosso l'emoji {2}",
+
+			"channelCreate": "{1} ha creato un canale {2}",
+			"channelCreate|hascat": "{1} ha creato un canale chiamato {2} elencato in {3}",
+			"channelUpdate": "{1} ha cambiato il canale {2}",
+			"channelUpdate|permsAdd": "{1} ha aggiunto nuovi permessi per {3} nel canale {2}",
+			"channelUpdate|permsUpdate": "{1} ha cambiato i permessi per {3} nel canale {2}",
+			"channelUpdate|permsDelete": "{1} ha rimosso i permessi per {3} nel canale {2}",
+			"channelDelete": "{1} ha cancellato il canale {2}"
+
+		},
+		"loggingAttributes": {
+			"dashboardOption": "Impostazioni di Yves",
+			"newValue": "Nuovo valore",
+			"channelType": "Tipo di canale",
+			"nsfw": "NSFW",
+			"Bitrate": "Biterate",
+			"Topic": "Argomento"
    }
 }
