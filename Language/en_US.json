@@ -119,6 +119,63 @@
 			"USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_2": "Member boosted server to tier 2",
 			"USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_3": "Member boosted server to tier 3"
 
+		},
+
+		"ExplicitContentFilter": {
+
+			"DISABLED": "Disabled",
+			"MEMBERS_WITHOUT_ROLES": "Mebers without roles",
+			"ALL_MEMBERS": "All Members"
+
+		},
+
+		"2FARequirement": {
+
+			"NONE": "No 2FA Required",
+			"ELEVATED": "2FA Required"
+
+		},
+
+		"VerificationLevel": {
+
+			"NONE": "None",
+			"MEMBERS_WITHOUT_ROLES": "Mebers without roles",
+			"ALL_MEMBERS": "All Members"
+
+		},
+
+		"loggingMessages": {
+
+			"viewInAuditBrowser": "View in the Audit Browser",
+
+			"messageDelete": "{1} Deleted a message owned by {2} in {3}",
+			"messageDelete|self": "{1} Deleted their own [message]({3}) in {2}.",
+			"messageEdit": "{1} Edited their [message]({3}) in {2}",
+
+			"emojiCreate": "{1} Created a new emoji: {2}",
+			"emojiUpdate": "{1} Updated a emoji: {2}",
+			"emojiDelete": "{1} Deleted the emoji called {2}",
+
+			"channelCreate": "{1} Created a channel {2}",
+			"channelCreate|hascat": "{1} Created a channel called {2} listed under {3}",
+			"channelUpdate": "{1} edited a channel {2}",
+			"channelUpdate|permsAdd": "{1} Added new permissions for {3} in channel {2}",
+			"channelUpdate|permsUpdate": "{1} Changed permissions for {3} in channel {2}",
+			"channelUpdate|permsDelete": "{1} Removed permissions for {3} in channel {2}",
+			"channelDelete": "{1} Deleted a channel {2}"
+
+		},
+
+		"loggingAttributes": {
+
+			"dashboardOption": "Yves Setting",
+			"newValue": "New Value",
+
+			"channelType": "Channel Type",
+			"nsfw": "NSFW",
+			"Bitrate": "Biterate",
+			"Topic": "Topic"
+
 		}
 	
 	
