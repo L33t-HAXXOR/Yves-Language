@@ -74,10 +74,13 @@
 
 			"noRoomAvailable": "Sie haben keinen Kanal. Erstellen sie einen und versuchen Sie es nochmal.",
 
+			"roomLocked": "Kanal wurde gesperrt.",
+			"roomUnlocked": "Kanal wurde entsperrt.",
+
 			"noChannelsEnabled": "Sie können jetzt keine Kanäle erstellen, da dieses Feature nicht Eingeschaltet ist.",
 			"roomSummonErrorExiting": "Sie können jetzt keine weiteren Kanäle erstellen da Sie höchstwahrscheinlich schon einen haben.",
-			"roomDeleteNoRoom": "Konnte den Kanal nicht löschen. Sind Sie sicher das der Kanal von {1} ist?"
-
+			"roomDeleteNoRoom": "Konnte den Kanal nicht löschen. Sind Sie sicher das der Kanal von {1} ist?",
+			"noRoom": "{1} hat keinen Kanal. Bist du sicher das er einen hat?"
 		},
 		
 		"misc": {
@@ -97,6 +100,63 @@
 			
 			"bug_report_url": "https://forms.gle/sDZVWYef3kfEPYW48",
 			"feedback_url": "https://forms.gle/ssjKRRo395YkZ8Wt9"
+
+		},
+
+		"ExplicitContentFilter": {
+
+			"DISABLED": "Deaktiviert",
+			"MEMBERS_WITHOUT_ROLES": "Mitglieder ohne Rollen",
+			"ALL_MEMBERS": "Alle Mitglieder"
+
+		},
+
+		"2FARequirement": {
+
+			"NONE": "Kein 2FA benötigt",
+			"ELEVATED": "2FA benötigt"
+
+		},
+
+		"VerificationLevel": {
+
+			"NONE": "Keine",
+			"MEMBERS_WITHOUT_ROLES": "Mitglieder ohne Rollen",
+			"ALL_MEMBERS": "Alle Mitglieder"
+
+		},
+
+		"loggingMessages": {
+
+			"viewInAuditBrowser": "Audit-Log im Browser ansehen",
+
+			"messageDelete": "{1} Hat eine Nachricht von {2} in {3} gelöscht.",
+			"messageDelete|self": "{1} Hat seine eigene [nachricht]({3}) in {2} gelöscht.",
+			"messageEdit": "{1} hat seine [Nachricht]({3}) in {2} bearbeitet.",
+
+			"emojiCreate": "{1} Hat einen neuen Emoji erstellt: {2}.",
+			"emojiUpdate": "{1} Hat einen Emoji bearbeitet: {2}.",
+			"emojiDelete": "{1} Hat den Emoji namens {2} gelöscht.",
+
+			"channelCreate": "{1} Hat einen Kanal erstellt {2}.",
+			"channelCreate|hascat": "{1} Hat einen Kanal namens {2} unter {3} erstellt.",
+			"channelUpdate": "{1} Hat einen Kanal {2} geändert.",
+			"channelUpdate|permsAdd": "{1} Hat Berechtigungen für {3} in {2} hinzugefügt.",
+			"channelUpdate|permsUpdate": "{1} Hat Berechtigungen für {3} in {2} geändert.",
+			"channelUpdate|permsDelete": "{1} Hat Berechtigungen für {3} in {2} geändert.",
+			"channelDelete": "{1} Hat den Kanal {2} gelöscht."
+
+		},
+
+		"loggingAttributes": {
+
+			"dashboardOption": "Yves Einstellungen",
+			"newValue": "Neuer Wert",
+
+			"channelType": "Kanal Typ",
+			"nsfw": "NSFW",
+			"Bitrate": "Bitrate",
+			"Topic": "Thema"
 
 		}
 	
