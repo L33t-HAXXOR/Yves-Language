@@ -1,1 +1,186 @@
+{
 
+	"meta": {
+	
+		"name":				"English (US)",
+		"short":       		"en_US",
+		"maintainers":		["Nioxed#0404"],
+
+		"versionFormat":	4
+	
+	},
+	
+	"terms": {
+	
+		"Discord": {
+		
+			"Guild":				"Server",
+			
+			"Channel":				"Channel",
+			"VoiceChannel":			"Voice Channel",
+			"TextChannel":			"Text Channel",
+			"CategoryChannel":		"Category Channel",
+			
+			"Message":				"Message",
+			"Member":				"Member",
+			"Mention":				"Mention"
+		
+		},
+		
+		"exceptions": {
+
+
+			"titleGeneric":			"Something went wrong.",
+			"titlePermission":		"Permission Denied.",
+			"titleNotImplemented":	"Not Implemented",
+		
+			"generic": 				"A exception has occurred.",
+			"genericLogged": 		"A exception has occurred. Go to {1} for more information.",
+			"genericNoPerms": 		"Missing permissions to do that here.",
+			"genericNoUserPerms": 	"You'll need the `{1}` permission to do that.",
+			
+			"genericNoShard": 		"Sorry, Yves is currently not available on your server. Try again in a minute or two.",
+			"genericOutage": 		"Sorry, Yves is currently experiencing an outage, Try again in a couple minutes.",
+			
+			"contactAdmin":			"If you belive this is an error, contact the server administrator",
+
+			"roomTooManyMembers":	"Inviting these people would exceed the room member limit."
+		
+		},
+		
+		"dialog": {
+		
+			"confirm": 				"Confirm Action.",
+			"choose": 				"Make a choice.",
+
+			"expiresIn":			"Expires in {1} seconds.",
+			"targetMember":			"Only {1} can decide.",
+
+			"actionConfirmed":		"Action Confirmed",
+			"actionCanceled": 		"Action Canceled",
+			"actionExpired": 		"Action Expired",
+			"actionExpiredDesc": 	"The {1} second timer expired.",
+			"actionCanceledDesc": 	"{1} clicked cancel.",
+
+			"footerMessage": 		"Expires in {1} only {2} can confirm."
+		
+		},
+
+		"rooms": {
+
+			"roomCreated": "Your room was created!",
+			"roomDeleted": "Your room was deleted!",
+			"roomCreateFailed": "Something went wrong while creating your room.",
+
+			"noRoomAvailable": "You don't have a room. Summon one before trying again.",
+
+			"roomLocked": "Room was locked.",
+			"roomUnlocked": "Room was unlocked.",
+
+			"noChannelsEnabled": "You can't summon a room right now because no channel types are enabled.",
+			"roomSummonErrorExiting": "You cannot create a room at this time, You most likely already have one.",
+			"roomDeleteNoRoom": "Could not find a room to delete. Are you sure there is one for {1}?",
+			"noRoom": "{1} Doesn't seem to have a room, Are you sure it exists?"
+
+		},
+		
+		"misc": {
+		
+			"y":	"y",
+			"working": "Working on it...",
+			"checking": "Please wait...",
+
+			"noMember": "No members were found."
+		
+		},
+
+		"help": {
+
+			"dashboard_url": "https://yvesbot.com/dashboard/{1}",
+			"dashboard_url_message": "You can change bot behavior via the dashboard at:",
+			
+			"bug_report_url": "https://forms.gle/sDZVWYef3kfEPYW48",
+			"feedback_url": "https://forms.gle/ssjKRRo395YkZ8Wt9"
+
+		},
+
+		"discordMessageTypes": {
+
+			"DEFAULT": "Message",
+			"RECIPIENT_ADD": "GroupDM Member Added",
+			"RECIPIENT_REMOVE": "GroupDM Member Removed",
+			"CALL": "Call",
+			"CHANNEL_NAME_CHANGE": "GroupDM Channel Name Changed",
+			"CHANNEL_ICON_CHANGE": "GroupDM Channel Icon Changed",
+			"CHANNEL_PINNED_MESSAGE": "Message was pinned",
+			"GUILD_MEMBER_JOIN": "Member joined server",
+			"USER_PREMIUM_GUILD_SUBSCRIPTION": "Member boosted server",
+			"USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_1": "Member boosted server to tier 1",
+			"USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_2": "Member boosted server to tier 2",
+			"USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_3": "Member boosted server to tier 3"
+
+		},
+
+		"ExplicitContentFilter": {
+
+			"DISABLED": "Disabled",
+			"MEMBERS_WITHOUT_ROLES": "Mebers without roles",
+			"ALL_MEMBERS": "All Members"
+
+		},
+
+		"2FARequirement": {
+
+			"NONE": "No 2FA Required",
+			"ELEVATED": "2FA Required"
+
+		},
+
+		"VerificationLevel": {
+
+			"NONE": "None",
+			"MEMBERS_WITHOUT_ROLES": "Mebers without roles",
+			"ALL_MEMBERS": "All Members"
+
+		},
+
+		"loggingMessages": {
+
+			"viewInAuditBrowser": "View in the Audit Browser",
+
+			"messageDelete": "{1} Deleted a message owned by {2} in {3}",
+			"messageDelete|self": "{1} Deleted their own [message]({3}) in {2}.",
+			"messageEdit": "{1} Edited their [message]({3}) in {2}",
+
+			"emojiCreate": "{1} Created a new emoji: {2}",
+			"emojiUpdate": "{1} Updated a emoji: {2}",
+			"emojiDelete": "{1} Deleted the emoji called {2}",
+
+			"channelCreate": "{1} Created a channel {2}",
+			"channelCreate|hascat": "{1} Created a channel called {2} listed under {3}",
+			"channelUpdate": "{1} edited a channel {2}",
+			"channelUpdate|permsAdd": "{1} Added new permissions for {3} in channel {2}",
+			"channelUpdate|permsUpdate": "{1} Changed permissions for {3} in channel {2}",
+			"channelUpdate|permsDelete": "{1} Removed permissions for {3} in channel {2}",
+			"channelDelete": "{1} Deleted a channel {2}"
+
+		},
+
+		"loggingAttributes": {
+
+			"dashboardOption": "Yves Setting",
+			"newValue": "New Value",
+
+			"channelType": "Channel Type",
+			"nsfw": "NSFW",
+			"Bitrate": "Biterate",
+			"Topic": "Topic"
+
+		}
+	
+	
+	
+	}
+
+
+}
