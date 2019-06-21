@@ -2,8 +2,8 @@
 
 	"meta": {
 	
-		"name":				"English (US)",
-		"short":       		"en_US",
+		"name":				"Español (ES)",
+		"short":       		"es_ES",
 		"maintainers":		["Nioxed#0404"],
 
 		"versionFormat":	4
@@ -14,90 +14,90 @@
 	
 		"Discord": {
 		
-			"Guild":				"Server",
+			"Guild":				"Servidor",
 			
-			"Channel":				"Channel",
-			"VoiceChannel":			"Voice Channel",
-			"TextChannel":			"Text Channel",
-			"CategoryChannel":		"Category Channel",
+			"Channel":				"Canal",
+			"VoiceChannel":			"Canal de voz",
+			"TextChannel":			"Canal de texto",
+			"CategoryChannel":		"Canal de categoría",
 			
-			"Message":				"Message",
-			"Member":				"Member",
-			"Mention":				"Mention"
+			"Message":				"Mensaje",
+			"Member":				"Miembro",
+			"Mention":				"Mención"
 		
 		},
 		
 		"exceptions": {
 
 
-			"titleGeneric":			"Something went wrong.",
-			"titlePermission":		"Permission Denied.",
-			"titleNotImplemented":	"Not Implemented",
+			"titleGeneric":			"Algo anda mal.",
+			"titlePermission":		"Permiso denegado.",
+			"titleNotImplemented":	"No implementado",
 		
-			"generic": 				"A exception has occurred.",
-			"genericLogged": 		"A exception has occurred. Go to {1} for more information.",
-			"genericNoPerms": 		"Missing permissions to do that here.",
-			"genericNoUserPerms": 	"You'll need the `{1}` permission to do that.",
+			"generic": 				"Una excepción ha occurrido.",
+			"genericLogged": 		"Una excepción ha occurrido. Va al {1} para ver más información.",
+			"genericNoPerms": 		"No tiene permiso suficiente hacerlo aquí.",
+			"genericNoUserPerms": 	"Necesitará el permiso `{1}` para hacer eso.",
 			
-			"genericNoShard": 		"Sorry, Yves is currently not available on your server. Try again in a minute or two.",
-			"genericOutage": 		"Sorry, Yves is currently experiencing an outage, Try again in a couple minutes.",
+			"genericNoShard": 		"Lo siento, Yves actualmente no está disponible en su servidor. Inténtalo en un minuto... quizás.",
+			"genericOutage": 		"Lo siento, Yves actualmente está experimentando un apagón, Inténtalo en unos minutos.",
 			
-			"contactAdmin":			"If you belive this is an error, contact the server administrator",
+			"contactAdmin":			"Si cree es un error, contacte el administrador del servidor.",
 
-			"roomTooManyMembers":	"Inviting these people would exceed the room member limit."
+			"roomTooManyMembers":	"Invitando esta gente superaría al limite de miembros."
 		
 		},
 		
 		"dialog": {
 		
-			"confirm": 				"Confirm Action.",
-			"choose": 				"Make a choice.",
+			"confirm": 				"Confirmar Acción.",
+			"choose": 				"Haga una elección",
 
-			"expiresIn":			"Expires in {1} seconds.",
-			"targetMember":			"Only {1} can decide.",
+			"expiresIn":			"Expira en {1} segundos.",
+			"targetMember":			"Solo {1} puede decidir.",
 
-			"actionConfirmed":		"Action Confirmed",
-			"actionCanceled": 		"Action Canceled",
-			"actionExpired": 		"Action Expired",
-			"actionExpiredDesc": 	"The {1} second timer expired.",
-			"actionCanceledDesc": 	"{1} clicked cancel.",
+			"actionConfirmed":		"Acción confirmada",
+			"actionCanceled": 		"Acción cancelada",
+			"actionExpired": 		"Acción expirada",
+			"actionExpiredDesc": 	"La temporizador de {1} segundo(s) expiró.",
+			"actionCanceledDesc": 	"{1} pinchó cancelar.",
 
-			"footerMessage": 		"Expires in {1} only {2} can confirm."
+			"footerMessage": 		"Expira en {1} solo {2} puede confirmar."
 		
 		},
 
 		"rooms": {
 
-			"roomCreated": "Your room was created!",
-			"roomDeleted": "Your room was deleted!",
-			"roomCreateFailed": "Something went wrong while creating your room.",
+			"roomCreated": "Se creó su sala!",
+			"roomDeleted": "Se borró su sala!",
+			"roomCreateFailed": "Algo anda mal mientras que crear su sala.",
 
-			"noRoomAvailable": "You don't have a room. Summon one before trying again.",
+			"noRoomAvailable": "No tiene sala. Llame a una antes de tratar de nuevo.",
 
-			"roomLocked": "Room was locked.",
-			"roomUnlocked": "Room was unlocked.",
+			"roomLocked": "Sala bloqueado.",
+			"roomUnlocked": "Sala desbloqueado.",
 
-			"noChannelsEnabled": "You can't summon a room right now because no channel types are enabled.",
-			"roomSummonErrorExiting": "You cannot create a room at this time, You most likely already have one.",
-			"roomDeleteNoRoom": "Could not find a room to delete. Are you sure there is one for {1}?",
-			"noRoom": "{1} Doesn't seem to have a room, Are you sure it exists?"
+			"noChannelsEnabled": "No puede llam a una sala ahorita porque tipos del canales están desactivadas.",
+			"roomSummonErrorExiting": "No puede crear una sala en ese momento, Es probable que ya tiene.",
+			"roomDeleteNoRoom": "No podría encontrar una sala. Esta seguro que hay una por {1}?",
+			"noRoom": "{1} no parece tener una sala, Está seguro que existe?"
 
 		},
 		
 		"misc": {
 		
 			"y":	"y",
-			"working": "Working on it...",
-			"checking": "Please wait...",
+			"working": "Trabajando...",
+			"checking": "Espere por favor...",
 
-			"noMember": "No members were found."
+			"noMember": "No encontró ningun miembro."
 		
 		},
 
 		"help": {
 
 			"dashboard_url": "https://yvesbot.com/dashboard/{1}",
-			"dashboard_url_message": "You can change bot behavior via the dashboard at:",
+			"dashboard_url_message": "Puede configurar el bot via el dashboard aquí:",
 			
 			"bug_report_url": "https://forms.gle/sDZVWYef3kfEPYW48",
 			"feedback_url": "https://forms.gle/ssjKRRo395YkZ8Wt9"
@@ -106,11 +106,11 @@
 
 		"discordMessageTypes": {
 
-			"DEFAULT": "Message",
-			"RECIPIENT_ADD": "GroupDM Member Added",
-			"RECIPIENT_REMOVE": "GroupDM Member Removed",
-			"CALL": "Call",
-			"CHANNEL_NAME_CHANGE": "GroupDM Channel Name Changed",
+			"DEFAULT": "Mensaje",
+			"RECIPIENT_ADD": "Miembro del grupoDM añadido",
+			"RECIPIENT_REMOVE": "Miembro del grupoDM removido",
+			"CALL": "Llamar",
+			"CHANNEL_NAME_CHANGE": "Nombre del canal del grupoDM cambiado",
 			"CHANNEL_ICON_CHANGE": "GroupDM Channel Icon Changed",
 			"CHANNEL_PINNED_MESSAGE": "Message was pinned",
 			"GUILD_MEMBER_JOIN": "Member joined server",
