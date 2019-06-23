@@ -111,70 +111,70 @@
 			"RECIPIENT_REMOVE": "Miembro del grupoDM removido",
 			"CALL": "Llamar",
 			"CHANNEL_NAME_CHANGE": "Nombre del canal del grupoDM cambiado",
-			"CHANNEL_ICON_CHANGE": "GroupDM Channel Icon Changed",
-			"CHANNEL_PINNED_MESSAGE": "Message was pinned",
-			"GUILD_MEMBER_JOIN": "Member joined server",
-			"USER_PREMIUM_GUILD_SUBSCRIPTION": "Member boosted server",
-			"USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_1": "Member boosted server to tier 1",
-			"USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_2": "Member boosted server to tier 2",
-			"USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_3": "Member boosted server to tier 3"
+			"CHANNEL_ICON_CHANGE": "Icono del canal del grupoDM cambiado",
+			"CHANNEL_PINNED_MESSAGE": "Mensaje fijado",
+			"GUILD_MEMBER_JOIN": "Miembro se unió al servidor",
+			"USER_PREMIUM_GUILD_SUBSCRIPTION": "Miembro boosteado el servidor",
+			"USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_1": "Miembro ha boosteado el servidor al nivel 1",
+			"USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_2": "Miembro ha boosteado el servidor al nivel 2",
+			"USER_PREMIUM_GUILD_SUBSCRIPTION_TIER_3": "Miembro ha boosteado el servidor al nivel 3"
 
 		},
 
 		"ExplicitContentFilter": {
 
-			"DISABLED": "Disabled",
-			"MEMBERS_WITHOUT_ROLES": "Mebers without roles",
-			"ALL_MEMBERS": "All Members"
+			"DISABLED": "Desactivado",
+			"MEMBERS_WITHOUT_ROLES": "Miembros sin roles",
+			"ALL_MEMBERS": "Todos los miembros
 
 		},
 
 		"2FARequirement": {
 
-			"NONE": "No 2FA Required",
-			"ELEVATED": "2FA Required"
+			"NONE": "No Requiere 2FA",
+			"ELEVATED": "Requiere 2FA"
 
 		},
 
 		"VerificationLevel": {
 
-			"NONE": "None",
-			"MEMBERS_WITHOUT_ROLES": "Mebers without roles",
-			"ALL_MEMBERS": "All Members"
+			"NONE": "Ninguno",
+			"MEMBERS_WITHOUT_ROLES": "Miembros sin roles",
+			"ALL_MEMBERS": "Todos los miembros"
 
 		},
 
 		"loggingMessages": {
 
-			"viewInAuditBrowser": "View in the Audit Browser",
+			"viewInAuditBrowser": "Ver en navegador Audit",
 
-			"messageDelete": "{1} Deleted a message owned by {2} in {3}",
-			"messageDelete|self": "{1} Deleted their own [message]({3}) in {2}.",
-			"messageEdit": "{1} Edited their [message]({3}) in {2}",
+			"messageDelete": "{1} se borró un mensaje enviado por {2} en {3}",
+			"messageDelete|self": "{1} se borró su propio [message]({3}) en {2}.",
+			"messageEdit": "{1} se editó su [message]({3}) en {2}",
 
-			"emojiCreate": "{1} Created a new emoji: {2}",
-			"emojiUpdate": "{1} Updated a emoji: {2}",
-			"emojiDelete": "{1} Deleted the emoji called {2}",
+			"emojiCreate": "{1} se creó un nuevo emoji: {2}",
+			"emojiUpdate": "{1} se actualizó un emoji: {2}",
+			"emojiDelete": "{1} se borró el emoji called {2}",
 
-			"channelCreate": "{1} Created a channel {2}",
-			"channelCreate|hascat": "{1} Created a channel called {2} listed under {3}",
-			"channelUpdate": "{1} edited a channel {2}",
-			"channelUpdate|permsAdd": "{1} Added new permissions for {3} in channel {2}",
-			"channelUpdate|permsUpdate": "{1} Changed permissions for {3} in channel {2}",
-			"channelUpdate|permsDelete": "{1} Removed permissions for {3} in channel {2}",
-			"channelDelete": "{1} Deleted a channel {2}"
+			"channelCreate": "{1} Se creó un canal {2}",
+			"channelCreate|hascat": "{1} se creó un canal {2} colocado en {3}",
+			"channelUpdate": "{1} se editó un canal {2}",
+			"channelUpdate|permsAdd": "{1} añadió nuevos permisos para {3} en el canal {2}",
+			"channelUpdate|permsUpdate": "{1} se cambió permisos para {3} en el canal {2}",
+			"channelUpdate|permsDelete": "{1} se removío permisos para {3} en canal {2}",
+			"channelDelete": "{1} se borró el canal {2}"
 
 		},
 
 		"loggingAttributes": {
 
-			"dashboardOption": "Yves Setting",
-			"newValue": "New Value",
+			"dashboardOption": "Configuraciones del Yves",
+			"newValue": "Nueva entrada",
 
-			"channelType": "Channel Type",
+			"channelType": "Tipo del canal",
 			"nsfw": "NSFW",
-			"Bitrate": "Biterate",
-			"Topic": "Topic"
+			"Bitrate": "Bitrate",
+			"Topic": "Tópico"
 
 		}
 	
